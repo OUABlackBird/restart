@@ -1,4 +1,4 @@
-# Luke Notes
+# Luke Notes V002
 ## Python language
 
 Functions 1
